@@ -18,6 +18,12 @@ Contributions
 -------------
 You're welcome to submit pull requests for additional functionality or bug fixes if you like. I'll certainly consider merging them, and am happy to discuss any implementation details or concerns.
 
+Latest Versions
+---------------
+| Category      | Addon                | Version |
+| ------------- | -------------------- | ------- |
+| Import-Export | Unreal Animation FBX | 1.0     |
+
 License
 -------
 All addons in this repository are licensed under the Microsoft Public License (MS-PL). See LICENSE for details.
