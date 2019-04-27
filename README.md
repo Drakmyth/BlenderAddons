@@ -20,9 +20,9 @@ You're welcome to submit pull requests for additional functionality or bug fixes
 
 Latest Versions
 ---------------
-| Category      | Addon                | Version |
-| ------------- | -------------------- | ------- |
-| Import-Export | Unreal Animation FBX | 1.0     |
+| Category      | Addon                | Version | Blender |
+| ------------- | -------------------- | ------- | ------- |
+| Import-Export | Unreal Animation FBX | 1.0     | 2.79    |
 
 License
 -------
